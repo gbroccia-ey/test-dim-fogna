@@ -1,5 +1,5 @@
 {
-  "name": "ionic-jeqpui",
+  "name": "test-dim-fogna",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,8 @@
     "@angular/platform-browser-dynamic": "5.2.9",
     "core-js": "2.4.1",
     "ionic-angular": "3.9.2",
+    "ionicons": "^5.5.0",
+    "mathjs": "^9.2.0",
     "moment": "^2.29.1",
     "rxjs": "5.4.0",
     "typescript": "2.3.4",

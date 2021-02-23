@@ -5,7 +5,10 @@ import { Ads } from "../../models/ads";
 
 @Component({
   selector: "page-home",
-  templateUrl: "home.html"
+  templateUrl: "home.html",
+  styleUrls: [
+    "../../app/style/_variables.scss"
+  ]
 })
 export class HomePage {
   ads: Ads;
